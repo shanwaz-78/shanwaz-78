@@ -15,7 +15,9 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> =
-<a href='https://www.w3schools.com/html/' target='_blank' rel='noreferrer'> <img src='https://blog.edx.org/hubfs/Imported_Blog_Media/null-1-1.jpg' alt='Html5' width='45' height='45'/>
+<a href='https://www.w3schools.com/html/' target='_blank' rel='noreferrer'> <img src='https://blog.edx.org/hubfs/Imported_Blog_Media/null-1-1.jpg' alt='Html5' width='52' height='40'/>
+<a href='https://www.w3schools.com/css/default.asp' target='_blank' rel='moreferrer'> <img src='![image](https://user-images.githubusercontent.com/111566952/212961363-1c9a6311-55cd-43a1-ab04-b750ba7fce77.png) alt'=Css3' width='52' height='40'>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanwaz-78&show_icons=true&locale=en&layout=compact" alt="shanwaz-78" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanwaz-78&show_icons=true&locale=en" alt="shanwaz-78" /></p>
