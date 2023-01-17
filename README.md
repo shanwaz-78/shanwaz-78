@@ -15,7 +15,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> =
-
+<a href='https://www.w3schools.com/html/' target='_blank' rel='noreferrer'> <img src='https://blog.edx.org/hubfs/Imported_Blog_Media/null-1-1.jpg' alt='Html5' width='40' height='40'/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanwaz-78&show_icons=true&locale=en&layout=compact" alt="shanwaz-78" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanwaz-78&show_icons=true&locale=en" alt="shanwaz-78" /></p>
