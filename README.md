@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajhashmi" alt="rajhashmi" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs,ThreeJS, Blender**
+- 🌱 I’m currently learning **NestJs, ThreeJS, Blender**
 
 - 📫 How to reach me **mohammed.shanwaz78@gmail.com**
 
@@ -72,8 +72,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajhashmi&show_icons=true&locale=en&layout=compact" alt="rajhashmi" /></p>
 
