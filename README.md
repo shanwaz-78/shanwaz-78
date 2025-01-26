@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shanwaz</h1>
 <h3 align="center">I’m a Fullstack Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajhashmi&label=Profile%20views&color=0e75b6&style=flat" alt="rajhashmi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-github-username" alt="your-github-username" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajhashmi" alt="rajhashmi" /></a> </p>
 
 - 🌱 I’m currently learning **NestJs, ThreeJS, Blender**
 
-- 📧 How to reach me **mohammed.shanwaz78@gmail.com**
+- 📫 How to reach me **mohammed.shanwaz78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -77,6 +77,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username="shanwaz-78"&show_icons=true&locale=en" alt="shanwaz-78" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajhashmi&show_icons=true&locale=en" alt="rajhashmi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user="shanwaz-78"& alt="shanwaz-78" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajhashmi&" alt="rajhashmi" /></p>
