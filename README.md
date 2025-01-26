@@ -77,6 +77,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="your-github-username" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username="shanwaz-78"&show_icons=true&locale=en" alt="shanwaz-78" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="your-github-username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user="shanwaz-78"& alt="shanwaz-78" /></p>
