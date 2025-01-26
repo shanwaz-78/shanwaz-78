@@ -77,6 +77,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajhashmi&show_icons=true&locale=en" alt="rajhashmi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajhashmi&" alt="rajhashmi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanwaz-78&show_icons=true&locale=en" alt="shanwaz-78" /></p>
